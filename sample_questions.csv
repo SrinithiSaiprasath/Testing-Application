@@ -1,0 +1,4 @@
+description,code_section,option_1,option_2,option_3,option_4,type,marks,neg_marks,answer
+What is the output of this code?,print(2 ** 3),6,8,9,16,MCQ,1,0.25,8
+Which are Python data types?,,list,integer,tuple,define,MSQ,2,0.5,"['list','integer','tuple']"
+Which keyword is used to define a function in Python?,,define,def,fun,lambda,MCQ,1,0.25,def
